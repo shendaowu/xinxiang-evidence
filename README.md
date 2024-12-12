@@ -12,6 +12,8 @@
 
 这里最早的时间点： https://github.com/shendaowu/xinxiang-evidence/tree/main/2024-09-13 。这个证明手段不多。我在别的地方还有更早的证明。在 2023 年 8 月。
 
+证明手段最多的时间点： https://github.com/shendaowu/xinxiang-evidence/tree/main/2024-12-12 。
+
 ## 求证明手段的改进
 
 我比白嫖能强点，我承诺如果我闲钱多了我会用金钱报答部分给我提建议的人。另外被证明的代码库里提到的感谢页也是可能的。
